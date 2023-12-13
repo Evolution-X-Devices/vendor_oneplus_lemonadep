@@ -52,6 +52,16 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/lemonadep/proprietary/odm/etc/camera/darksight/darksight_main.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/darksight/darksight_main.bin \
     vendor/oneplus/lemonadep/proprietary/odm/etc/camera/darksight/darksight_ultrawide.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/darksight/darksight_ultrawide.bin \
     vendor/oneplus/lemonadep/proprietary/odm/etc/camera/distortion_result.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/distortion_result.bin \
+    vendor/oneplus/lemonadep/proprietary/odm/etc/camera/dng/ColorMatrix1_imx789_0.txt:$(TARGET_COPY_OUT_ODM)/etc/camera/dng/ColorMatrix1_imx789_0.txt \
+    vendor/oneplus/lemonadep/proprietary/odm/etc/camera/dng/ColorMatrix1_ov08a10_3.txt:$(TARGET_COPY_OUT_ODM)/etc/camera/dng/ColorMatrix1_ov08a10_3.txt \
+    vendor/oneplus/lemonadep/proprietary/odm/etc/camera/dng/ColorMatrix2_imx789_0.txt:$(TARGET_COPY_OUT_ODM)/etc/camera/dng/ColorMatrix2_imx789_0.txt \
+    vendor/oneplus/lemonadep/proprietary/odm/etc/camera/dng/ColorMatrix2_ov08a10_3.txt:$(TARGET_COPY_OUT_ODM)/etc/camera/dng/ColorMatrix2_ov08a10_3.txt \
+    vendor/oneplus/lemonadep/proprietary/odm/etc/camera/dng/D28HUESATMap_imx789_0.txt:$(TARGET_COPY_OUT_ODM)/etc/camera/dng/D28HUESATMap_imx789_0.txt \
+    vendor/oneplus/lemonadep/proprietary/odm/etc/camera/dng/D28HUESATMap_ov08a10_3.txt:$(TARGET_COPY_OUT_ODM)/etc/camera/dng/D28HUESATMap_ov08a10_3.txt \
+    vendor/oneplus/lemonadep/proprietary/odm/etc/camera/dng/D65HUESATMap_imx789_0.txt:$(TARGET_COPY_OUT_ODM)/etc/camera/dng/D65HUESATMap_imx789_0.txt \
+    vendor/oneplus/lemonadep/proprietary/odm/etc/camera/dng/D65HUESATMap_ov08a10_3.txt:$(TARGET_COPY_OUT_ODM)/etc/camera/dng/D65HUESATMap_ov08a10_3.txt \
+    vendor/oneplus/lemonadep/proprietary/odm/etc/camera/dng/ToneCurve_imx789_0.txt:$(TARGET_COPY_OUT_ODM)/etc/camera/dng/ToneCurve_imx789_0.txt \
+    vendor/oneplus/lemonadep/proprietary/odm/etc/camera/dng/ToneCurve_ov08a10_3.txt:$(TARGET_COPY_OUT_ODM)/etc/camera/dng/ToneCurve_ov08a10_3.txt \
     vendor/oneplus/lemonadep/proprietary/odm/etc/camera/eis_camera.vcfg:$(TARGET_COPY_OUT_ODM)/etc/camera/eis_camera.vcfg \
     vendor/oneplus/lemonadep/proprietary/odm/etc/camera/engineer_camera_config:$(TARGET_COPY_OUT_ODM)/etc/camera/engineer_camera_config \
     vendor/oneplus/lemonadep/proprietary/odm/etc/camera/fb_default:$(TARGET_COPY_OUT_ODM)/etc/camera/fb_default \
